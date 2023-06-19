@@ -21,7 +21,7 @@ I am Abdelghni Hamanar,I am currently an ALX Student. I am a tech enthusiast & a
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Peter-Panda&theme=white)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdelghni-hamanar&border_radius=5&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Peter-Panda&border_radius=5&type=png)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghni-hamanar)](https://github.com/anuraghazra/github-readme-stats)
 
