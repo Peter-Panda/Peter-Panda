@@ -23,9 +23,9 @@ I am Abdelghni Hamanar,I am currently an ALX Student. I am a tech enthusiast & a
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Peter-Panda&border_radius=5&type=png)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghni-hamanar)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-Panda)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelghni-hamanar&show_icons=true&locale=en&layout=compact" alt="abdelghni hamanar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Peter-Panda&show_icons=true&locale=en&layout=compact" alt="abdelghni hamanar" /></p>
 
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
